@@ -1,0 +1,10 @@
+/Users/kirstenrichard/Desktop/substrate-moloch-dao/target/release/deps/libp2p_websocket-7cd64903e813ab6c.rmeta: /Users/kirstenrichard/.cargo/registry/src/github.com-1ecc6299db9ec823/libp2p-websocket-0.19.0/src/lib.rs /Users/kirstenrichard/.cargo/registry/src/github.com-1ecc6299db9ec823/libp2p-websocket-0.19.0/src/error.rs /Users/kirstenrichard/.cargo/registry/src/github.com-1ecc6299db9ec823/libp2p-websocket-0.19.0/src/framed.rs /Users/kirstenrichard/.cargo/registry/src/github.com-1ecc6299db9ec823/libp2p-websocket-0.19.0/src/tls.rs
+
+/Users/kirstenrichard/Desktop/substrate-moloch-dao/target/release/deps/liblibp2p_websocket-7cd64903e813ab6c.rlib: /Users/kirstenrichard/.cargo/registry/src/github.com-1ecc6299db9ec823/libp2p-websocket-0.19.0/src/lib.rs /Users/kirstenrichard/.cargo/registry/src/github.com-1ecc6299db9ec823/libp2p-websocket-0.19.0/src/error.rs /Users/kirstenrichard/.cargo/registry/src/github.com-1ecc6299db9ec823/libp2p-websocket-0.19.0/src/framed.rs /Users/kirstenrichard/.cargo/registry/src/github.com-1ecc6299db9ec823/libp2p-websocket-0.19.0/src/tls.rs
+
+/Users/kirstenrichard/Desktop/substrate-moloch-dao/target/release/deps/libp2p_websocket-7cd64903e813ab6c.d: /Users/kirstenrichard/.cargo/registry/src/github.com-1ecc6299db9ec823/libp2p-websocket-0.19.0/src/lib.rs /Users/kirstenrichard/.cargo/registry/src/github.com-1ecc6299db9ec823/libp2p-websocket-0.19.0/src/error.rs /Users/kirstenrichard/.cargo/registry/src/github.com-1ecc6299db9ec823/libp2p-websocket-0.19.0/src/framed.rs /Users/kirstenrichard/.cargo/registry/src/github.com-1ecc6299db9ec823/libp2p-websocket-0.19.0/src/tls.rs
+
+/Users/kirstenrichard/.cargo/registry/src/github.com-1ecc6299db9ec823/libp2p-websocket-0.19.0/src/lib.rs:
+/Users/kirstenrichard/.cargo/registry/src/github.com-1ecc6299db9ec823/libp2p-websocket-0.19.0/src/error.rs:
+/Users/kirstenrichard/.cargo/registry/src/github.com-1ecc6299db9ec823/libp2p-websocket-0.19.0/src/framed.rs:
+/Users/kirstenrichard/.cargo/registry/src/github.com-1ecc6299db9ec823/libp2p-websocket-0.19.0/src/tls.rs:

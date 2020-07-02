@@ -1,0 +1,11 @@
+/Users/kirstenrichard/Desktop/substrate-moloch-dao/target/release/deps/socket2-31a0cbceeceb689b.rmeta: /Users/kirstenrichard/.cargo/registry/src/github.com-1ecc6299db9ec823/socket2-0.3.12/src/lib.rs /Users/kirstenrichard/.cargo/registry/src/github.com-1ecc6299db9ec823/socket2-0.3.12/src/sockaddr.rs /Users/kirstenrichard/.cargo/registry/src/github.com-1ecc6299db9ec823/socket2-0.3.12/src/socket.rs /Users/kirstenrichard/.cargo/registry/src/github.com-1ecc6299db9ec823/socket2-0.3.12/src/utils.rs /Users/kirstenrichard/.cargo/registry/src/github.com-1ecc6299db9ec823/socket2-0.3.12/src/sys/unix.rs
+
+/Users/kirstenrichard/Desktop/substrate-moloch-dao/target/release/deps/libsocket2-31a0cbceeceb689b.rlib: /Users/kirstenrichard/.cargo/registry/src/github.com-1ecc6299db9ec823/socket2-0.3.12/src/lib.rs /Users/kirstenrichard/.cargo/registry/src/github.com-1ecc6299db9ec823/socket2-0.3.12/src/sockaddr.rs /Users/kirstenrichard/.cargo/registry/src/github.com-1ecc6299db9ec823/socket2-0.3.12/src/socket.rs /Users/kirstenrichard/.cargo/registry/src/github.com-1ecc6299db9ec823/socket2-0.3.12/src/utils.rs /Users/kirstenrichard/.cargo/registry/src/github.com-1ecc6299db9ec823/socket2-0.3.12/src/sys/unix.rs
+
+/Users/kirstenrichard/Desktop/substrate-moloch-dao/target/release/deps/socket2-31a0cbceeceb689b.d: /Users/kirstenrichard/.cargo/registry/src/github.com-1ecc6299db9ec823/socket2-0.3.12/src/lib.rs /Users/kirstenrichard/.cargo/registry/src/github.com-1ecc6299db9ec823/socket2-0.3.12/src/sockaddr.rs /Users/kirstenrichard/.cargo/registry/src/github.com-1ecc6299db9ec823/socket2-0.3.12/src/socket.rs /Users/kirstenrichard/.cargo/registry/src/github.com-1ecc6299db9ec823/socket2-0.3.12/src/utils.rs /Users/kirstenrichard/.cargo/registry/src/github.com-1ecc6299db9ec823/socket2-0.3.12/src/sys/unix.rs
+
+/Users/kirstenrichard/.cargo/registry/src/github.com-1ecc6299db9ec823/socket2-0.3.12/src/lib.rs:
+/Users/kirstenrichard/.cargo/registry/src/github.com-1ecc6299db9ec823/socket2-0.3.12/src/sockaddr.rs:
+/Users/kirstenrichard/.cargo/registry/src/github.com-1ecc6299db9ec823/socket2-0.3.12/src/socket.rs:
+/Users/kirstenrichard/.cargo/registry/src/github.com-1ecc6299db9ec823/socket2-0.3.12/src/utils.rs:
+/Users/kirstenrichard/.cargo/registry/src/github.com-1ecc6299db9ec823/socket2-0.3.12/src/sys/unix.rs:
